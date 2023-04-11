@@ -3,7 +3,7 @@
 Q.A. Challenge 20220719
 Por favor, complete o seguinte desafio para seguir com a sua candidatura. Você deverá documentar o seu processo e apresentá-lo em um vídeo (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado.
 
-Antes de começar
+# Antes de começar
 
 Prepare o projeto para ser disponibilizado no Github, copiando o conteúdo deste repositório para o seu (ou utilize o fork do projeto e aponte para o Github). Confirme que a visibilidade do projeto é pública (não esqueça de colocar no readme a referência a este challenge);
 O projeto deve utilizar a Linguagem específica na sua Vaga (caso esteja se candidatando). Por exempo: Python, R, Scala e entre outras;
@@ -11,7 +11,7 @@ Considere como deadline 5 dias a partir do início do desafio. Caso tenha sido c
 Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
 
 
-Desafio
+# Desafio
 Neste desafio aplicaremos os conceitos de teste caixa preta, onde testaremos a página Beta da Coodesh em vários aspectos como por exemplo:
 
 Se a home carrega corretamente
